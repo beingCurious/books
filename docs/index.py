@@ -6,7 +6,7 @@ import os
 base = os.path.expanduser('./src')
 topics = [f for f in os.listdir(base) if os.path.isdir(os.path.join(base, f))]
 
-f = open(os.path.expandvars('./INDEX.md'), 'w')
+f = open(os.path.expandvars('./README.md'), 'w')
 
 f.write('Booklist\n')
 f.write('========\n\n')
@@ -28,4 +28,4 @@ for topic in topics:
 
 f.close()
 
-print('INDEX.md has been updated (created) successfully.')
+print('README.md has been updated (created) successfully.')

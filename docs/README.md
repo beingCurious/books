@@ -1,6 +1,21 @@
 Booklist
 ========
 
+<!-- vim-markdown-toc GFM -->
+
+* [Machine Learning](#machine-learning)
+* [Misc](#misc)
+* [Database](#database)
+* [Data Mining](#data-mining)
+* [Python](#python)
+* [Theory](#theory)
+* [R](#r)
+* [Game Theory](#game-theory)
+* [C](#c)
+* [Spark](#spark)
+
+<!-- vim-markdown-toc -->
+
 ### Machine Learning
 
 Topic                | Title
